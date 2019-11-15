@@ -36,6 +36,8 @@ namespace Csharp_Common_Type_Dictionary
             */
             foreach (KeyValuePair<string, string> word in wordsAndDefinitions)
             {
+                Console.WriteLine($"The word {word.Key} means {word.Value}");
+
             }
         }
     }

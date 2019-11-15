@@ -1,0 +1,11 @@
+C:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\obj\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.csprojAssemblyReference.cache
+C:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\obj\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.AssemblyInfoInputs.cache
+C:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\obj\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.AssemblyInfo.cs
+c:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\bin\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.exe
+C:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\bin\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.deps.json
+C:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\bin\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.runtimeconfig.json
+C:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\bin\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.runtimeconfig.dev.json
+c:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\bin\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.dll
+c:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\bin\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.pdb
+c:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\obj\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.dll
+c:\Users\Oakley\Desktop\workspace\Csharp-Common-Type-Dictionary\obj\Debug\netcoreapp3.0\Csharp-Common-Type-Dictionary.pdb
